@@ -9,7 +9,6 @@ import {
   Stack,
   Divider,
   Button,
-  background,
 } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import { dummyNotifications } from "../utils/notification";
