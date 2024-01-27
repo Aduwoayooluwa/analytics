@@ -11,7 +11,7 @@ import {
   useColorMode,
 } from "@chakra-ui/react";
 import { ChevronDownIcon } from "@chakra-ui/icons";
-import Settings_icon from "../assets/Settings_icon.svg";
+import Settings_icon from "../assets/settings_icon.svg";
 import logout_icon from "../assets/logout_icon.svg";
 
 const UserProfile = () => {
